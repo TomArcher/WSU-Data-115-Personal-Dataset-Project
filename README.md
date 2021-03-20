@@ -1,11 +1,12 @@
 # WSU Data 115 Personal Dataset Project
 
-This repo contains the analysis for my WSU Data 115 "Personal Dataset Project". In this project, I'll use statistical analysis - leveraging Excel and R - to address the following types of questions:
+In this project, I'm leveraging R and Microsoft Excel to analyze some key metrics for software developers and how those metrics differ between various demographics.
 
-**Note #1**: The analysis is performed on 2020 survey data of 65,000 respondents.
-**Note #2**: References to gender and sexual identity are based on the values supplied by the individual participants of the surveys on which my analysis is based.
+**Notes**
+- The analysis is performed on 2020 survey data of 65,000 respondents.
+- References to gender and sexual identity are based on the values supplied by the individual participants of the surveys on which my analysis is based.
 
-- What is the pay difference between men and women?
-- What are the differences in overtime needed between software developers in the U.S. vs. the rest of the world, and between men and women?
-- How does LGBTQ+ representation in software developers compare to the general public?
-- How does job satisfaction compare between software developers pros in the U.S. vs. the rest of the world, and between men and women?
+**Example questions I'm analyzing"
+- What is the pay difference for software developers between men and women?
+- How does job satisfaction compare between software developers in the U.S. vs. the rest of the world, and between men and women?
+- How does LGBTQ+ representation among software developers compare to the general public?
