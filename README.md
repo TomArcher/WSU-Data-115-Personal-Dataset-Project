@@ -2,7 +2,8 @@
 
 This repo contains the analysis for my WSU Data 115 "Personal Dataset Project". In this project, I'll use statistical analysis - leveraging Excel and R - to address the following types of questions:
 
-**Note:** References to gender and sexual identity are based on the values supplied by the individual participants of the surveys on which my analysis is based.
+**Note #1**: The analysis is performed on 2020 survey data of 65,000 respondents.
+**Note #2**: References to gender and sexual identity are based on the values supplied by the individual participants of the surveys on which my analysis is based.
 
 - What is the pay difference between men and women?
 - What are the differences in overtime needed between software developers in the U.S. vs. the rest of the world, and between men and women?
